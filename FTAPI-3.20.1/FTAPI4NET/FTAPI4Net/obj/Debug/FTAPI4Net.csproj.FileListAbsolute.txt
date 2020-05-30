@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\FTAPI-3.20.1\FTAPI-3.20.1\FTAPI4NET\FTAPI4Net\bin\Debug\FTAPI4Net.dll
+C:\Users\Administrator\Desktop\FTAPI-3.20.1\FTAPI-3.20.1\FTAPI4NET\FTAPI4Net\bin\Debug\FTAPI4Net.pdb
+C:\Users\Administrator\Desktop\FTAPI-3.20.1\FTAPI-3.20.1\FTAPI4NET\FTAPI4Net\bin\Debug\Google.ProtocolBuffers.dll
+C:\Users\Administrator\Desktop\FTAPI-3.20.1\FTAPI-3.20.1\FTAPI4NET\FTAPI4Net\bin\Debug\Google.ProtocolBuffers.Serialization.dll
+C:\Users\Administrator\Desktop\FTAPI-3.20.1\FTAPI-3.20.1\FTAPI4NET\FTAPI4Net\obj\Debug\FTAPI4Net.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\FTAPI-3.20.1\FTAPI-3.20.1\FTAPI4NET\FTAPI4Net\obj\Debug\FTAPI4Net.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FTAPI-3.20.1\FTAPI-3.20.1\FTAPI4NET\FTAPI4Net\obj\Debug\FTAPI4Net.csproj.CopyComplete
+C:\Users\Administrator\Desktop\FTAPI-3.20.1\FTAPI-3.20.1\FTAPI4NET\FTAPI4Net\obj\Debug\FTAPI4Net.dll
+C:\Users\Administrator\Desktop\FTAPI-3.20.1\FTAPI-3.20.1\FTAPI4NET\FTAPI4Net\obj\Debug\FTAPI4Net.pdb

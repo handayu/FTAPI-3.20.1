@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\FTAPI-3.20.1\FTAPI-3.20.1\FTAPI4NET\TraderConnectClient\bin\Debug\TraderConnectClient.exe.config
+C:\Users\Administrator\Desktop\FTAPI-3.20.1\FTAPI-3.20.1\FTAPI4NET\TraderConnectClient\bin\Debug\TraderConnectClient.exe
+C:\Users\Administrator\Desktop\FTAPI-3.20.1\FTAPI-3.20.1\FTAPI4NET\TraderConnectClient\bin\Debug\TraderConnectClient.pdb
+C:\Users\Administrator\Desktop\FTAPI-3.20.1\FTAPI-3.20.1\FTAPI4NET\TraderConnectClient\bin\Debug\FTAPI4Net.dll
+C:\Users\Administrator\Desktop\FTAPI-3.20.1\FTAPI-3.20.1\FTAPI4NET\TraderConnectClient\bin\Debug\Google.ProtocolBuffers.dll
+C:\Users\Administrator\Desktop\FTAPI-3.20.1\FTAPI-3.20.1\FTAPI4NET\TraderConnectClient\bin\Debug\Google.ProtocolBuffers.Serialization.dll
+C:\Users\Administrator\Desktop\FTAPI-3.20.1\FTAPI-3.20.1\FTAPI4NET\TraderConnectClient\bin\Debug\FTAPI4Net.pdb
+C:\Users\Administrator\Desktop\FTAPI-3.20.1\FTAPI-3.20.1\FTAPI4NET\TraderConnectClient\obj\Debug\TraderConnectClient.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\FTAPI-3.20.1\FTAPI-3.20.1\FTAPI4NET\TraderConnectClient\obj\Debug\TraderConnectClient.Form1.resources
+C:\Users\Administrator\Desktop\FTAPI-3.20.1\FTAPI-3.20.1\FTAPI4NET\TraderConnectClient\obj\Debug\TraderConnectClient.Properties.Resources.resources
+C:\Users\Administrator\Desktop\FTAPI-3.20.1\FTAPI-3.20.1\FTAPI4NET\TraderConnectClient\obj\Debug\TraderConnectClient.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\FTAPI-3.20.1\FTAPI-3.20.1\FTAPI4NET\TraderConnectClient\obj\Debug\TraderConnectClient.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FTAPI-3.20.1\FTAPI-3.20.1\FTAPI4NET\TraderConnectClient\obj\Debug\TraderConnectClient.csproj.CopyComplete
+C:\Users\Administrator\Desktop\FTAPI-3.20.1\FTAPI-3.20.1\FTAPI4NET\TraderConnectClient\obj\Debug\TraderConnectClient.exe
+C:\Users\Administrator\Desktop\FTAPI-3.20.1\FTAPI-3.20.1\FTAPI4NET\TraderConnectClient\obj\Debug\TraderConnectClient.pdb
